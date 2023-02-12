@@ -1,5 +1,5 @@
 
-//B.A5ravind Reddy
+//B.Aravind Reddy
 //Div : 4b19
 //ERP:210303126088
 public class CompareToExample{
