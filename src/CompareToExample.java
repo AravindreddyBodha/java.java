@@ -1,7 +1,7 @@
 
-//B.Prem Goud
+//B.A5ravind Reddy
 //Div : 4b19
-//ERP:210303126076
+//ERP:210303126088
 public class CompareToExample{
     public static void main(String args[]){
         String s1="hello";
